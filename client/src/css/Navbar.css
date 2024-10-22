@@ -97,6 +97,13 @@
   padding-right: 5em;
 }
 
+.hero2 {
+  width: 70em;
+  height: 20em;
+  border: 2px solid black;
+  padding-right: 5em;
+}
+
 .hero h2 {
   color: #0b0849;
   font-size: 3em;
@@ -131,18 +138,4 @@
   border-radius: 10px;
   border: 0px solid #ff6600;
   /* margin: 0px 0px;  */
-}
-
-.hero2 {
-  /* width: 70em;
-  height: 20em;
-  border: 2px solid black;
-  padding-right: 5em; */
-  margin-right: 5em;
-}
-
-.FirstImage {
-  background-image: url("../public/Idea.png");
-  height: 20em;
-  width: 20em;
 }

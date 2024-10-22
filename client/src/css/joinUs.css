@@ -1,0 +1,58 @@
+.container4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin-top: 3em;
+  margin-bottom: 0em;
+  background-color: #0b0839;
+  color: white;
+}
+
+.title2 {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: white;
+}
+
+.subtitle {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0em 12em;
+  text-align: center;
+}
+
+.subtitle2 {
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 0em 25em;
+  text-align: center;
+}
+
+.borderForSearch {
+  border: 2px solid #ff6600;
+  /* padding: 0px 10px; */
+}
+
+.inputFeild {
+  background-color: transparent;
+  text-decoration: none;
+  border: none;
+  font-size: 1em;
+  padding: 0px 15px;
+}
+
+.searchButton {
+  background-color: transparent;
+}
+
+.postButton {
+  background-color: #ff6600;
+  color: white;
+  padding: 0px 7em;
+}
+
+.or {
+  padding: 0px 15px;
+}
